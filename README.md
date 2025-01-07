@@ -29,12 +29,12 @@ Welcome to my GitHub! I'm an enthusiastic engineer with a strong foundation in  
 
 ### 📊 Stats
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahtoashish&show_icons=true&theme=gruvbox)/
+![Prashanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashanthn7&show_icons=true&theme=gruvbox)/
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [Linkedin](https://linkedin.com/in/ashish-mahto-2b7aa319b)
-- **Email:** AshishMahto(ashishmahto491@gmail.com)
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/prashanth-n-8384532a0/)
+- **Email:** Prashanth(pn342604@gmail.com)
 
 
