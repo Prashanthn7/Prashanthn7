@@ -25,11 +25,11 @@ Welcome to my GitHub! I'm an enthusiastic engineer with a strong foundation in  
 <br />
 
 
-#
+<!-- #
 
 ### 📊 Stats
 
-![Prashanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashanthn7&show_icons=true&theme=gruvbox)/
+![Prashanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashanthn7&show_icons=true&theme=gruvbox)/ -->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 ## 🌐 Connect with Me
