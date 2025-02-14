@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm an enthusiastic engineer with a strong foundation in  
 ## 🛠️ Skills
 
 - **Languages:** Java, SQL, HTML, CSS, JavaScript
-- **Frameworks & Libraries:** JDBC, HIBERNATE,SERVLET
+- **Frameworks & Libraries:** JDBC, HIBERNATE, SERVLET,SPRING, SPRING -MVC, SPRING BOOT 
 - **Tools:** Git, GitHub, VS Code, Eclipse 
   
 ### 🧰 Languages and Tools
