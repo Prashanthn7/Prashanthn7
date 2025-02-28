@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm an enthusiastic engineer with a strong foundation in  
 <br />
 
 
-<!-- #
+<!--#
 
 ### 📊 Stats
 
